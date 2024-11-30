@@ -19,4 +19,7 @@ def get_borrow_details(book_id):
 
     else:
         print("Book are Not Issued")
+
+def sunny():
+    print("Hii")
         
