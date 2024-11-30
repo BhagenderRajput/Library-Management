@@ -23,3 +23,5 @@ def get_borrow_details(book_id):
 def sunny():
     print("Hii")
         
+def aditya():
+    print("Hello")
